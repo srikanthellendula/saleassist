@@ -16,7 +16,7 @@ const Header = () => {
             </div>
             <div className='nav-list-mobile'>
                 <ul>
-                    <li> <img alt='icon' src='https://res.cloudinary.com/dx94215tz/image/upload/v1712512325/Group_48100065_1_qtvkb2.png'/></li>
+                    <li> <img alt='menu-bar' src='https://res.cloudinary.com/dx94215tz/image/upload/v1712512325/Group_48100065_1_qtvkb2.png'/></li>
                     <a href='/bags'> <li> Bags </li> </a>
                     <a  href='/travel'> <li> Travel </li> </a> 
                     <a href='/accesories'> <li>Accesories </li> </a>

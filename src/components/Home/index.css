@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    width: 100%;
+    
 }
 .products-list-container-img{
     height: 25rem;
