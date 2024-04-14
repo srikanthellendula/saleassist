@@ -49,7 +49,6 @@ img[alt='menu-bar']{
 
     .nav-list-mobile{       
         display: flex;
-        width: 100vw;
         flex-direction: column;
        
     }

@@ -7,8 +7,8 @@
     
 }
 .products-list-container-img{
-    height: 25rem;
-    width: 20rem;
+    height: 20rem;
+    width: 18rem;
     object-fit: fit;
     border-radius: 2rem;
     padding: 5px 10px;
@@ -66,4 +66,18 @@ position: relative;
 left: 80%;
 top: 20%;
 background-color: red;
+}
+
+@media screen and (max-width:768px) {
+
+    .products-list-container-img{
+        height: 20rem;
+        width: 18rem;
+        object-fit: fit;
+        border-radius: 2rem;
+        padding: 5px 10px;
+        
+    }
+    
+    
 }
